@@ -30,8 +30,8 @@ GenUI 是一个基于 AI 的智能界面生成系统，能够通过自然语言�
 ### 后端设置
 1. 克隆仓库
 ```bash
-git clone https://github.com/yourusername/genui.git
-cd genui
+git clone https://github.com/bkidy/MagoUI.git
+cd MagoUI
 ```
 2. 安装依赖
 ```bash

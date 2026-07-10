@@ -3,6 +3,8 @@
 ## 项目介绍
 GenUI 是一个基于 AI 的智能界面生成系统，能够通过自然语言描述自动生成 React 组件。系统采用 FastAPI 和 React 技术栈开发，支持实时预览和代码生成。
 
+延伸阅读：[为什么 AI Design Agent 应该会写 HTML](https://glbai.com/posts/ai-design-agents-html-design/)
+
 ## 主要特性
 - 🤖 AI 驱动的界面生成
 - 🎨 支持多种 UI 组件库
@@ -72,4 +74,3 @@ npm run dev
 ## 许可证
 
 MIT License
-
